@@ -16,14 +16,13 @@ Belki çok temel olabilir ama temelleri sağlamlaştırmak iyidir! Minik gözük
 
 import random
 import numpy as np
+
+####### Alıştırma 1 : Sadece 50’den büyük olan sayıların ortalamasını hesaplayan bir kod yaz. #######
+## Bunun için bir liste oluşturdum. ## 
 list_ = []
 for number in range(10):
     list_.append(random.randint(1, 100))
 print("Random List:", list_)
-
-####### Alıştırma 1 : Sadece 50’den büyük olan sayıların ortalamasını hesaplayan bir kod yaz. #######
-## Bunun için bir liste oluşturdum. ## 
-
 sum_greater_50 = 0
 count_greater_50 = 0
 average_greater_50 = 0
@@ -100,4 +99,5 @@ liste_1 = [ 1, 2, 2, 3, 4, 4, 5, 5, 5 ]
 tekrarsiz_liste = np.unique(liste)
 print("Orijinal Liste (Yöntem 4):", liste)
 print("Benzersiz Liste (Yöntem 4):", tekrarsiz_liste)
+
 
