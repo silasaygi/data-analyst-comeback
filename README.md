@@ -32,3 +32,19 @@ Amaç:
 
 ---
 
+## 📌 Gün 3 – Dictionary Based Data Grouping
+
+Bu günde Python dictionary yapısı kullanılarak:
+
+- Sayısal verilerde frekans analizi
+- Metin (string) bazlı karakter sayımı
+- Koşullu kategorik gruplama
+- İç içe listelerden toplam frekans çıkarımı
+
+Amaç:
+- Veri analizi için gerekli algoritmik düşünme yetisini geri kazanmak
+
+📂 Klasör: `day3_dictionary_grouping_practice.py
+`
+
+---
