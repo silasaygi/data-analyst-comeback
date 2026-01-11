@@ -67,4 +67,18 @@ Amaç:
 
 📂 Klasör: day4_pandas-intro_vs_python
 
+### Ek Çalışma – Pandas Pratik
+
+Gün 4 kapsamında Pandas kullanımını pekiştirmek amacıyla
+ek bir pratik çalışması yapılmıştır.
+
+Bu çalışmada:
+- Temel EDA fonksiyonları
+- Filtreleme ve sıralama
+- GroupBy & aggregation
+- Yeni kolon oluşturma
+
+konuları pratik edilmiştir.
+
+
 
