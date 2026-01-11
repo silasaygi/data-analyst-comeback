@@ -44,7 +44,27 @@ Bu günde Python dictionary yapısı kullanılarak:
 Amaç:
 - Veri analizi için gerekli algoritmik düşünme yetisini geri kazanmak
 
-📂 Klasör: `day3_dictionary_grouping_practice.py
+📂 Klasör: `day3_dictionary_grouping_practice
 `
 
 ---
+📌 Gün 4 – Python’dan Pandas’a Geçiş (Karşılaştırmalı Analiz)
+Bu günde, önceki günlerde saf Python ile kurulan veri analizi mantıkları
+Pandas kütüphanesi kullanılarak tekrar uygulanmıştır.
+
+Çalışmalar kapsamında:
+
+- Python ile yazılan frekans (dictionary) analizinin `value_counts()` ile karşılaştırılması
+- `apply()` fonksiyonu ile Python fonksiyonlarının Pandas yapısına entegre edilmesi
+- Kategorik sınıflandırma sonrası `groupby().size()` kullanımı
+- Metin verisi üzerinde karakter frekans analizi
+
+Amaç:
+
+- Pandas’ın, Python’da manuel olarak yazılan algoritmaların hangi noktalarını
+  kolaylaştırdığını ve optimize ettiğini kavramak
+- Python temelli algoritmik düşünme ile Pandas operasyonları arasındaki ilişkiyi netleştirmek
+
+📂 Klasör: day4_pandas-intro_vs_python
+
+
