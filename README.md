@@ -48,7 +48,7 @@ Amaç:
 `
 
 ---
-📌 Gün 4 – Python’dan Pandas’a Geçiş (Karşılaştırmalı Analiz)
+## 📌 Gün 4 – Python’dan Pandas’a Geçiş (Karşılaştırmalı Analiz)
 Bu günde, önceki günlerde saf Python ile kurulan veri analizi mantıkları
 Pandas kütüphanesi kullanılarak tekrar uygulanmıştır.
 
